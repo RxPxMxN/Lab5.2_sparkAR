@@ -576,6 +576,9 @@
         },
         {
           "sectionFileLocation": "textures/MyPicture.texture"
+        },
+        {
+          "sectionFileLocation": "textures/20210213_065918.texture"
         }
       ]
     },
@@ -624,6 +627,9 @@
         },
         {
           "sectionFileLocation": "materials/mypicture.material"
+        },
+        {
+          "sectionFileLocation": "materials/treePic.material"
         }
       ]
     },
