@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Remove-coll2",
+  "identifier": "texture:39810-2095b2b3-8940-4f9f-857a-0707d29c9e3a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "eb0aaceee262cc66bf7fd34a37db7089",
+  "assetLocator": "textures/Remove-coll2.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 63,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 130,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "eb0aaceee262cc66bf7fd34a37db7089",
+      "colorCount": 2290,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.296757190773989,
+      "pixelsHigh": 63,
+      "pixelsWide": 130
+    }
+  ]
+}

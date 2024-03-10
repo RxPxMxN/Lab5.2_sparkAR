@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Remove-glasees(1)",
+  "identifier": "texture:31330-2095b2b3-8940-4f9f-857a-0707d29c9e3a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "7217e80591239cbb7300edf3e96da2df",
+  "assetLocator": "textures/Remove-glasees(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 115,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 206,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "7217e80591239cbb7300edf3e96da2df",
+      "colorCount": 11159,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 10.752635171692988,
+      "pixelsHigh": 115,
+      "pixelsWide": 206
+    }
+  ]
+}

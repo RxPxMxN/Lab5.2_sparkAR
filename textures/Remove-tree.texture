@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Remove-tree",
+  "identifier": "texture:139272-2095b2b3-8940-4f9f-857a-0707d29c9e3a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "5349300bb30da0e3f66fd59d6dc6b4da",
+  "assetLocator": "textures/Remove-tree.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 914,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "5349300bb30da0e3f66fd59d6dc6b4da",
+      "colorCount": 72121,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.16945205889477,
+      "pixelsHigh": 1024,
+      "pixelsWide": 914
+    }
+  ]
+}
